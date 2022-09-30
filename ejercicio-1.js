@@ -1,5 +1,8 @@
 let alumnos = [];
 
+function calcularPromedio() {
+    console.log("")
+}
 
 // 1.Solicita los datos: Nombre, Apellido y Notas
 // 2.Carga en los array los datos
