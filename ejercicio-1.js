@@ -48,6 +48,8 @@ function CargarAlumno(){
 
 }
 
+let objeto;
+
 // Recorre los array y renderizar en el HTML los datos
 function MostrarDatos(){
     let html = '';
